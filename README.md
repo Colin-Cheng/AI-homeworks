@@ -20,6 +20,12 @@ You can play the Dominoes Game by running `python homework3_dominoes_game_gui.py
 
 ### HW4: Spam/Ham Classifier
 
+* A spam filter using naive Bayes classification.
+
 ### HW5: Markov Models
 
+* A language model that can be used to generate random text resembling a source document.
+
 ### HW6: Hidden Markov Models(POS tagging)
+
+* A hidden Markov model for part-of-speech (POS) tagging, using the `brown_corpus.txt` as training data.
